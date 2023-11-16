@@ -54,9 +54,6 @@ zmodule zsh-users/zsh-history-substring-search
 zmodule zsh-users/zsh-autosuggestions
 # }}} End configuration added by Zim install
 
-
-
 zmodule archive
-zmodule utility
 zmodule joke/zim-starship
 zmodule kiesman99/zim-zoxide
